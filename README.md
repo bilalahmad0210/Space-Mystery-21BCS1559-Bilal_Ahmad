@@ -5,6 +5,17 @@ You play as an interstellar pilot stranded in a mysterious alien system. Solve p
 
 ---
 
+## 📷 Screenshots
+
+ ![screenshot1](asset/1.jpg)  ![screenshot2](asset/2.jpg) 
+ ![screenshot1](asset/3.jpg)  ![screenshot2](asset/4.jpg)
+ ![screenshot1](asset/5.jpg)
+
+
+
+---
+
+
 ## 🎮 Play Now
 
 🚀 Available on **Itch.io**:  
